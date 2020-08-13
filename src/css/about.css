@@ -1,0 +1,9 @@
+.brand-emphasis {
+    color: #ff4f00;
+}
+
+.about {
+    height: 50vh;
+    display: flex;
+    align-items: center;
+}

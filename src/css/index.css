@@ -1,0 +1,29 @@
+body {
+    margin: 0;
+    padding: 0;
+}
+
+p {
+    font-size: 80%;
+}
+
+a:link,
+a:active,
+a:visited {
+    color: #000;
+    text-decoration: none;
+}
+
+a:hover {
+    color: rgb(6, 69, 173);
+}
+
+@import "./header.css";
+@import "./navigation.css";
+@import "./recipeList.css";
+@import "./pagination.css";
+@import "./searchBar.css";
+@import "./responsive.css";
+@import "./footer.css";
+@import "./about.css";
+@import "./favorite.css";

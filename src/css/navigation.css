@@ -1,0 +1,12 @@
+.navbar {
+    opacity: 0.8;
+}
+
+.navbar .nav-link {
+    font-size: 80%;
+    color: #000;
+}
+
+.navbar .nav-link:hover {
+    color: #ff4f00;
+}

@@ -1,0 +1,10 @@
+.pagination .page-link {
+    color: #a9a9a9;
+    font-size: 80%;
+    cursor: pointer;
+}
+
+.pagination .page-link:hover,
+.pagination .page-link.active {
+    color: #000;
+}

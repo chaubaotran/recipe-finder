@@ -1,0 +1,24 @@
+.footer .icon {
+    font-size: 150%;
+}
+
+.footer .icon.facebook {
+    color: #3b5998;
+}
+.footer .icon.linkedin {
+    color: #0072b1;
+}
+.footer .icon.instagram {
+    color: #dd2a7b;
+}
+.footer .icon.pinterest {
+    color: #e60023;
+}
+
+.footer .icon:hover {
+    color: #ff4f00;
+}
+
+.footer p {
+    font-size: 80%;
+}
